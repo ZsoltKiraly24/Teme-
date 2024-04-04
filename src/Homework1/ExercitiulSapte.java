@@ -1,3 +1,5 @@
+package Homework1;
+
 public class ExercitiulSapte {
     public static void main(String[] args){
         float x = 15;

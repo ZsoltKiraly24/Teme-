@@ -1,3 +1,5 @@
+package Homework1;
+
 public class ExercitiulOpt {
     public static void main(String[] args) {
 

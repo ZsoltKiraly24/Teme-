@@ -1,3 +1,5 @@
+package Homework1;
+
 public class ExercitiulCinci {
     static void primaMetoda() {
         int calcul = 1+5;

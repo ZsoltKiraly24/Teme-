@@ -1,3 +1,5 @@
+package Homework1;
+
 public class ExercitiulSase {
     static void myMethod(){
         int numar = 12;

@@ -1,3 +1,5 @@
+package Homework1;
+
 public class ExercitiulTrei {
     public static void main(String[] args){
         int Ana = 24;
